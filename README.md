@@ -1,1 +1,1 @@
-This is a simple project demonstrating the usage of Git and GitHub.
+To prosty projekt demonstrujący użycie Git i GitHub.
